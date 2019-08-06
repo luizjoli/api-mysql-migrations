@@ -1,0 +1,14 @@
+/home/luiz/projects/medium/api-mysql-migration/bin/Debug/netcoreapp2.2/post2.deps.json
+/home/luiz/projects/medium/api-mysql-migration/bin/Debug/netcoreapp2.2/post2.runtimeconfig.json
+/home/luiz/projects/medium/api-mysql-migration/bin/Debug/netcoreapp2.2/post2.runtimeconfig.dev.json
+/home/luiz/projects/medium/api-mysql-migration/bin/Debug/netcoreapp2.2/post2.dll
+/home/luiz/projects/medium/api-mysql-migration/bin/Debug/netcoreapp2.2/post2.pdb
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.csprojAssemblyReference.cache
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.csproj.CoreCompileInputs.cache
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.RazorAssemblyInfo.cache
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.RazorAssemblyInfo.cs
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.AssemblyInfoInputs.cache
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.AssemblyInfo.cs
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.RazorTargetAssemblyInfo.cache
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.dll
+/home/luiz/projects/medium/api-mysql-migration/obj/Debug/netcoreapp2.2/post2.pdb
